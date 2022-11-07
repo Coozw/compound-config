@@ -1,0 +1,15 @@
+{
+  "name": "compound-config",
+  "version": "1.0.0",
+  "description": "The Compound Web3 Front-end",
+  "scripts": {
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "resolutions": {
+  }
+}
